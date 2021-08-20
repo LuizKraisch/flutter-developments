@@ -1,3 +1,3 @@
-# Flutter basics - App Eu sou rico
+# Flutter basics - App "Eu sou rico"
 
 Primeiro projeto da disciplina.
