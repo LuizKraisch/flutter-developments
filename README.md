@@ -1,2 +1,2 @@
 # Flutter Developments
-Um repositório para guardar projetos Flutter da faculdade.
+Um repositório para guardar projetos Flutter.
