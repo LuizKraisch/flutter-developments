@@ -1,3 +1,3 @@
 # Flutter - Quiz Pokemon
 
-Um quiz sobre Pokémons feito em Flutter.
+Um quiz sobre Pokémon feito em Flutter.
